@@ -63,8 +63,4 @@ En cas de client indélicat ou absent, le chauffeur peut signaler le client via 
 
 ### Fin de la course et paiement
 
-Le registre Le.Taxi ne gère pas le paiement. Aucune transaction monétaire ne transite par la plateforme. Le client vous paie donc selon le prix affiché au compteur, en espèces ou en carte bleue. (Certains partenaires agréés offrent la possibilité d’un paiement électronique, tout en laissant le compteur déterminer le prix de la course.)
-
-### Evaluation de la course
-
-Une fois la course terminée, le client peut évaluer la course en la notant de 1 à 5.
+Le registre Le.Taxi ne gère pas le paiement. Aucune transaction monétaire ne transite par la plateforme. Le client paie donc le chauffeur selon le prix affiché au compteur, en espèces ou en carte bleue. (Certains partenaires agréés offrent la possibilité d’un paiement électronique, tout en laissant le compteur déterminer le prix de la course.)
